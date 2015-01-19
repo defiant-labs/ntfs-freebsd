@@ -1,2 +1,2 @@
 # ntfs-freebsd
-FreeBSD port of NTFS
+FreeBSD port of Apple's NTFS driver
